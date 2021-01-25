@@ -7,3 +7,4 @@ set ruler
 set relativenumber
 set title
 set wrap
+set sw=4
