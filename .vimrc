@@ -7,4 +7,5 @@ set ruler
 set relativenumber
 set title
 set wrap
-set sw=4
+set shiftwidth=4
+set softtabstop=4
